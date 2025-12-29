@@ -1,0 +1,27 @@
+.user{
+      align:center
+      width:1000px;
+      height:200px;
+      margin:auto;
+      background-color:lightblue;
+      border:3px solid block;
+      font family:saans-serif;
+      }
+      .box{
+      align:center
+      width:1000px;
+      height:200px;
+      margin:auto;
+      background-color:lightgreen;
+      border:3px solid block;
+      font family:saans-serif;
+      }
+      .zeal{
+      align:center
+      width:1000px;
+      height:200px;
+      margin:auto;
+      background-color:lightgrey;
+      border:3px solid block;
+      font family:saans-serif;
+      }
